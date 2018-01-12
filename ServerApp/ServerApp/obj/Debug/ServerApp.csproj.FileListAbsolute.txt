@@ -1,0 +1,66 @@
+c:\users\pasha\documents\visual studio 2013\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.TxDerived.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.TxLookup.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.TxSplit.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.ResolveComReference.cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\EntityFramework.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\EntityFramework.xml
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\obj\Debug\Interop.MSDASC.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.MSDAOSP.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.MSDASC.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxDataConvert.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxDerived.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxLookup.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxSplit.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.ResolveComReference.cache
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.xml
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.xml
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.resources.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+H:\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.MSDASC.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxDerived.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxLookup.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\Interop.TxSplit.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.ResolveComReference.cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.xml
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Pasha\Documents\Visual Studio 2013\Projects\КЛИЕНТСЕРВЕРНЕОСТАНАВЛИВАЕТСЯ\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
